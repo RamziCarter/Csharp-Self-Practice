@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/Arrays/Arrays/bin/Debug/Arrays.exe
+/Users/ramzicarter/Projects/Arrays/Arrays/bin/Debug/Arrays.pdb
+/Users/ramzicarter/Projects/Arrays/Arrays/obj/Debug/Arrays.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/Arrays/Arrays/obj/Debug/Arrays.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/Arrays/Arrays/obj/Debug/Arrays.exe
+/Users/ramzicarter/Projects/Arrays/Arrays/obj/Debug/Arrays.pdb

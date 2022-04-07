@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/HypoteneuseCalc/HypoteneuseCalc/bin/Debug/HypoteneuseCalc.exe
+/Users/ramzicarter/Projects/HypoteneuseCalc/HypoteneuseCalc/bin/Debug/HypoteneuseCalc.pdb
+/Users/ramzicarter/Projects/HypoteneuseCalc/HypoteneuseCalc/obj/Debug/HypoteneuseCalc.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/HypoteneuseCalc/HypoteneuseCalc/obj/Debug/HypoteneuseCalc.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/HypoteneuseCalc/HypoteneuseCalc/obj/Debug/HypoteneuseCalc.exe
+/Users/ramzicarter/Projects/HypoteneuseCalc/HypoteneuseCalc/obj/Debug/HypoteneuseCalc.pdb

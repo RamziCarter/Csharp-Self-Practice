@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/Constants/Constants/bin/Debug/Constants.exe
+/Users/ramzicarter/Projects/Constants/Constants/bin/Debug/Constants.pdb
+/Users/ramzicarter/Projects/Constants/Constants/obj/Debug/Constants.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/Constants/Constants/obj/Debug/Constants.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/Constants/Constants/obj/Debug/Constants.exe
+/Users/ramzicarter/Projects/Constants/Constants/obj/Debug/Constants.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrushUpOnSkills", "BrushUpOnSkills\BrushUpOnSkills.csproj", "{3A392890-6C5F-4B31-AB6A-3DA0A4D9011E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A392890-6C5F-4B31-AB6A-3DA0A4D9011E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3A392890-6C5F-4B31-AB6A-3DA0A4D9011E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3A392890-6C5F-4B31-AB6A-3DA0A4D9011E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3A392890-6C5F-4B31-AB6A-3DA0A4D9011E}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D595C37F-CC52-4837-9F42-D069108BE733}
+	EndGlobalSection
+EndGlobal

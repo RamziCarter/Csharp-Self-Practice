@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/ForLoops/ForLoops/bin/Debug/ForLoops.exe
+/Users/ramzicarter/Projects/ForLoops/ForLoops/bin/Debug/ForLoops.pdb
+/Users/ramzicarter/Projects/ForLoops/ForLoops/obj/Debug/ForLoops.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/ForLoops/ForLoops/obj/Debug/ForLoops.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/ForLoops/ForLoops/obj/Debug/ForLoops.exe
+/Users/ramzicarter/Projects/ForLoops/ForLoops/obj/Debug/ForLoops.pdb

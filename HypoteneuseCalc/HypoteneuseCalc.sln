@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HypoteneuseCalc", "HypoteneuseCalc\HypoteneuseCalc.csproj", "{BA199AE2-9B42-488E-BE54-48B40571ADC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA199AE2-9B42-488E-BE54-48B40571ADC8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BA199AE2-9B42-488E-BE54-48B40571ADC8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BA199AE2-9B42-488E-BE54-48B40571ADC8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BA199AE2-9B42-488E-BE54-48B40571ADC8}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {181F36BF-F80E-4B01-8AF7-0A6CAF49305F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/Arithmetic/Arithmetic/bin/Debug/Arithmetic.exe
+/Users/ramzicarter/Projects/Arithmetic/Arithmetic/bin/Debug/Arithmetic.pdb
+/Users/ramzicarter/Projects/Arithmetic/Arithmetic/obj/Debug/Arithmetic.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/Arithmetic/Arithmetic/obj/Debug/Arithmetic.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/Arithmetic/Arithmetic/obj/Debug/Arithmetic.exe
+/Users/ramzicarter/Projects/Arithmetic/Arithmetic/obj/Debug/Arithmetic.pdb

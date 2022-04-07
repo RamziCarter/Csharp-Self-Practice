@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/BrushUpOnSkills/BrushUpOnSkills/bin/Debug/BrushUpOnSkills.exe
+/Users/ramzicarter/Projects/BrushUpOnSkills/BrushUpOnSkills/bin/Debug/BrushUpOnSkills.pdb
+/Users/ramzicarter/Projects/BrushUpOnSkills/BrushUpOnSkills/obj/Debug/BrushUpOnSkills.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/BrushUpOnSkills/BrushUpOnSkills/obj/Debug/BrushUpOnSkills.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/BrushUpOnSkills/BrushUpOnSkills/obj/Debug/BrushUpOnSkills.exe
+/Users/ramzicarter/Projects/BrushUpOnSkills/BrushUpOnSkills/obj/Debug/BrushUpOnSkills.pdb

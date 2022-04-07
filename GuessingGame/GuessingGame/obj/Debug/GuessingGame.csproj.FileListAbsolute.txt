@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/GuessingGame/GuessingGame/bin/Debug/GuessingGame.exe
+/Users/ramzicarter/Projects/GuessingGame/GuessingGame/bin/Debug/GuessingGame.pdb
+/Users/ramzicarter/Projects/GuessingGame/GuessingGame/obj/Debug/GuessingGame.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/GuessingGame/GuessingGame/obj/Debug/GuessingGame.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/GuessingGame/GuessingGame/obj/Debug/GuessingGame.exe
+/Users/ramzicarter/Projects/GuessingGame/GuessingGame/obj/Debug/GuessingGame.pdb
