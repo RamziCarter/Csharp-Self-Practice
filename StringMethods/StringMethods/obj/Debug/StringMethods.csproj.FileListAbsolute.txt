@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/StringMethods/StringMethods/bin/Debug/StringMethods.exe
+/Users/ramzicarter/Projects/StringMethods/StringMethods/bin/Debug/StringMethods.pdb
+/Users/ramzicarter/Projects/StringMethods/StringMethods/obj/Debug/StringMethods.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/StringMethods/StringMethods/obj/Debug/StringMethods.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/StringMethods/StringMethods/obj/Debug/StringMethods.exe
+/Users/ramzicarter/Projects/StringMethods/StringMethods/obj/Debug/StringMethods.pdb

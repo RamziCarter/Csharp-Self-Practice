@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/Raandom/Raandom/obj/Debug/Raandom.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/Raandom/Raandom/obj/Debug/Raandom.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/Raandom/Raandom/bin/Debug/Raandom.exe
+/Users/ramzicarter/Projects/Raandom/Raandom/bin/Debug/Raandom.pdb
+/Users/ramzicarter/Projects/Raandom/Raandom/obj/Debug/Raandom.exe
+/Users/ramzicarter/Projects/Raandom/Raandom/obj/Debug/Raandom.pdb

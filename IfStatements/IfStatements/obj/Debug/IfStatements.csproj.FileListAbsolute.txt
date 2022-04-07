@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/IfStatements/IfStatements/bin/Debug/IfStatements.exe
+/Users/ramzicarter/Projects/IfStatements/IfStatements/bin/Debug/IfStatements.pdb
+/Users/ramzicarter/Projects/IfStatements/IfStatements/obj/Debug/IfStatements.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/IfStatements/IfStatements/obj/Debug/IfStatements.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/IfStatements/IfStatements/obj/Debug/IfStatements.exe
+/Users/ramzicarter/Projects/IfStatements/IfStatements/obj/Debug/IfStatements.pdb

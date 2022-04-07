@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/MyFirstProgram/MyFirstProgram/bin/Debug/MyFirstProgram.exe
+/Users/ramzicarter/Projects/MyFirstProgram/MyFirstProgram/bin/Debug/MyFirstProgram.pdb
+/Users/ramzicarter/Projects/MyFirstProgram/MyFirstProgram/obj/Debug/MyFirstProgram.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/MyFirstProgram/MyFirstProgram/obj/Debug/MyFirstProgram.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/MyFirstProgram/MyFirstProgram/obj/Debug/MyFirstProgram.exe
+/Users/ramzicarter/Projects/MyFirstProgram/MyFirstProgram/obj/Debug/MyFirstProgram.pdb

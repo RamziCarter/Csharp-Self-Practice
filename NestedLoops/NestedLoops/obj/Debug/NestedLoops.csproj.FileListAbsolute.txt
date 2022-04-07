@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/NestedLoops/NestedLoops/bin/Debug/NestedLoops.exe
+/Users/ramzicarter/Projects/NestedLoops/NestedLoops/bin/Debug/NestedLoops.pdb
+/Users/ramzicarter/Projects/NestedLoops/NestedLoops/obj/Debug/NestedLoops.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/NestedLoops/NestedLoops/obj/Debug/NestedLoops.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/NestedLoops/NestedLoops/obj/Debug/NestedLoops.exe
+/Users/ramzicarter/Projects/NestedLoops/NestedLoops/obj/Debug/NestedLoops.pdb

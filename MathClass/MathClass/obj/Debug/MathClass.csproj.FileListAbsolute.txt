@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/MathClass/MathClass/bin/Debug/MathClass.exe
+/Users/ramzicarter/Projects/MathClass/MathClass/bin/Debug/MathClass.pdb
+/Users/ramzicarter/Projects/MathClass/MathClass/obj/Debug/MathClass.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/MathClass/MathClass/obj/Debug/MathClass.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/MathClass/MathClass/obj/Debug/MathClass.exe
+/Users/ramzicarter/Projects/MathClass/MathClass/obj/Debug/MathClass.pdb
