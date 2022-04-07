@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/UserInput/UserInput/bin/Debug/UserInput.exe
+/Users/ramzicarter/Projects/UserInput/UserInput/bin/Debug/UserInput.pdb
+/Users/ramzicarter/Projects/UserInput/UserInput/obj/Debug/UserInput.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/UserInput/UserInput/obj/Debug/UserInput.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/UserInput/UserInput/obj/Debug/UserInput.exe
+/Users/ramzicarter/Projects/UserInput/UserInput/obj/Debug/UserInput.pdb

@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/TypeCasting/TypeCasting/obj/Debug/TypeCasting.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/TypeCasting/TypeCasting/obj/Debug/TypeCasting.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/TypeCasting/TypeCasting/bin/Debug/TypeCasting.exe
+/Users/ramzicarter/Projects/TypeCasting/TypeCasting/bin/Debug/TypeCasting.pdb
+/Users/ramzicarter/Projects/TypeCasting/TypeCasting/obj/Debug/TypeCasting.exe
+/Users/ramzicarter/Projects/TypeCasting/TypeCasting/obj/Debug/TypeCasting.pdb

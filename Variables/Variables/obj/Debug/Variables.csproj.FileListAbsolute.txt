@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/Variables/Variables/bin/Debug/Variables.exe
+/Users/ramzicarter/Projects/Variables/Variables/bin/Debug/Variables.pdb
+/Users/ramzicarter/Projects/Variables/Variables/obj/Debug/Variables.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/Variables/Variables/obj/Debug/Variables.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/Variables/Variables/obj/Debug/Variables.exe
+/Users/ramzicarter/Projects/Variables/Variables/obj/Debug/Variables.pdb

@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/Switches/Switches/obj/Debug/Switches.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/Switches/Switches/obj/Debug/Switches.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/Switches/Switches/bin/Debug/Switches.exe
+/Users/ramzicarter/Projects/Switches/Switches/bin/Debug/Switches.pdb
+/Users/ramzicarter/Projects/Switches/Switches/obj/Debug/Switches.exe
+/Users/ramzicarter/Projects/Switches/Switches/obj/Debug/Switches.pdb
