@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/Rock_Paper_Scissors/Rock_Paper_Scissors/obj/Debug/Rock_Paper_Scissors.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/Rock_Paper_Scissors/Rock_Paper_Scissors/obj/Debug/Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/Rock_Paper_Scissors/Rock_Paper_Scissors/bin/Debug/Rock_Paper_Scissors.exe
+/Users/ramzicarter/Projects/Rock_Paper_Scissors/Rock_Paper_Scissors/bin/Debug/Rock_Paper_Scissors.pdb
+/Users/ramzicarter/Projects/Rock_Paper_Scissors/Rock_Paper_Scissors/obj/Debug/Rock_Paper_Scissors.exe
+/Users/ramzicarter/Projects/Rock_Paper_Scissors/Rock_Paper_Scissors/obj/Debug/Rock_Paper_Scissors.pdb
