@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/ReturnKeyword/ReturnKeyword/bin/Debug/ReturnKeyword.exe
+/Users/ramzicarter/Projects/ReturnKeyword/ReturnKeyword/bin/Debug/ReturnKeyword.pdb
+/Users/ramzicarter/Projects/ReturnKeyword/ReturnKeyword/obj/Debug/ReturnKeyword.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/ReturnKeyword/ReturnKeyword/obj/Debug/ReturnKeyword.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/ReturnKeyword/ReturnKeyword/obj/Debug/ReturnKeyword.exe
+/Users/ramzicarter/Projects/ReturnKeyword/ReturnKeyword/obj/Debug/ReturnKeyword.pdb

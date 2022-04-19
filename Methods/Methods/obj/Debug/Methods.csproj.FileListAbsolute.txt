@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/Methods/Methods/bin/Debug/Methods.exe
+/Users/ramzicarter/Projects/Methods/Methods/bin/Debug/Methods.pdb
+/Users/ramzicarter/Projects/Methods/Methods/obj/Debug/Methods.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/Methods/Methods/obj/Debug/Methods.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/Methods/Methods/obj/Debug/Methods.exe
+/Users/ramzicarter/Projects/Methods/Methods/obj/Debug/Methods.pdb
