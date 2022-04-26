@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/Params/Params/bin/Debug/Params.exe
+/Users/ramzicarter/Projects/Params/Params/bin/Debug/Params.pdb
+/Users/ramzicarter/Projects/Params/Params/obj/Debug/Params.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/Params/Params/obj/Debug/Params.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/Params/Params/obj/Debug/Params.exe
+/Users/ramzicarter/Projects/Params/Params/obj/Debug/Params.pdb
