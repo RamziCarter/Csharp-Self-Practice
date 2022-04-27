@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/ConditionalOperator/ConditionalOperator/bin/Debug/ConditionalOperator.exe
+/Users/ramzicarter/Projects/ConditionalOperator/ConditionalOperator/bin/Debug/ConditionalOperator.pdb
+/Users/ramzicarter/Projects/ConditionalOperator/ConditionalOperator/obj/Debug/ConditionalOperator.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/ConditionalOperator/ConditionalOperator/obj/Debug/ConditionalOperator.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/ConditionalOperator/ConditionalOperator/obj/Debug/ConditionalOperator.exe
+/Users/ramzicarter/Projects/ConditionalOperator/ConditionalOperator/obj/Debug/ConditionalOperator.pdb
