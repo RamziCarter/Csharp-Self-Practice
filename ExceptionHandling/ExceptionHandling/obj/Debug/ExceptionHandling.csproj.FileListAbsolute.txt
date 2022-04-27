@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/ExceptionHandling/ExceptionHandling/bin/Debug/ExceptionHandling.exe
+/Users/ramzicarter/Projects/ExceptionHandling/ExceptionHandling/bin/Debug/ExceptionHandling.pdb
+/Users/ramzicarter/Projects/ExceptionHandling/ExceptionHandling/obj/Debug/ExceptionHandling.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/ExceptionHandling/ExceptionHandling/obj/Debug/ExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/ExceptionHandling/ExceptionHandling/obj/Debug/ExceptionHandling.exe
+/Users/ramzicarter/Projects/ExceptionHandling/ExceptionHandling/obj/Debug/ExceptionHandling.pdb
