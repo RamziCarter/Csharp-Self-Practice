@@ -1,0 +1,6 @@
+/Users/ramzicarter/Projects/StringInterpolation/StringInterpolation/bin/Debug/StringInterpolation.exe
+/Users/ramzicarter/Projects/StringInterpolation/StringInterpolation/bin/Debug/StringInterpolation.pdb
+/Users/ramzicarter/Projects/StringInterpolation/StringInterpolation/obj/Debug/StringInterpolation.csproj.AssemblyReference.cache
+/Users/ramzicarter/Projects/StringInterpolation/StringInterpolation/obj/Debug/StringInterpolation.csproj.CoreCompileInputs.cache
+/Users/ramzicarter/Projects/StringInterpolation/StringInterpolation/obj/Debug/StringInterpolation.exe
+/Users/ramzicarter/Projects/StringInterpolation/StringInterpolation/obj/Debug/StringInterpolation.pdb
